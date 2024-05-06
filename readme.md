@@ -1,1 +1,3 @@
-flexbox-example
+# FLEXBOX EXAMPLE
+
+learning about flexbox
